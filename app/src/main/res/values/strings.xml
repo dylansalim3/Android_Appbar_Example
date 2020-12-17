@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBarExample</string>
+    <string name="child_activity">Child Activity</string>
+</resources>
